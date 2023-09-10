@@ -1,0 +1,26 @@
+    1  whoami
+    2  pwd
+    3  history
+    4  ls
+    5  la -a
+    6  man ls
+    7  ls -l
+    8  cd .
+    9  pwd
+   10  cd ..
+   11  pwd
+   12  home
+   13  cd home
+   14  pwd
+   15  clear
+   16  ls -la
+   17  pwd
+   18  man cd
+   19  uname
+   20  pwd
+   21  cd
+   22  pwd
+   23  ls
+   24  ls -la
+   25  hishory
+   26  history
