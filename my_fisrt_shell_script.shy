@@ -1,0 +1,20 @@
+#!/bin/bash
+echo "---  whoami result: ---"
+whoami
+echo "---pwd result: ---"
+pwd
+echo "--- ls result: ---"
+ls
+echo "--- ls result after a.txt creation: ---"
+echo "12345" > a.txt
+ls
+echo "--- ls resultafter copy of a.txt: ---"
+cp a.txt b.txt
+ls
+echo "--- ls result after ABC creation ---"
+mkdir ABC
+ls
+echo "--- ls reuslt after move of b.txt and a.txt deletion ---"
+mv b.txt ABC/
+rm a.txt
+

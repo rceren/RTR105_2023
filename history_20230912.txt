@@ -1,0 +1,27 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  echo $0
+    4  whereis bash
+    5  nano my_fisrt_shell_script.sh
+    6  ls -lt
+    7  pwd
+    8  chmod 754 my_first_shell_script.sh
+    9  chmod 754 my_first_shell_script.shy
+   10  chmod 754 my_fisrt_shell_script.shy
+   11  ls -lt
+   12  pwd
+   13  echo $PATH
+   14* 
+   15  ls -l my_fisrt_shell_script.shy
+   16  echo $PATH
+   17  PATH=$PATH:~
+   18  echo $PATH
+   19  ls -lt
+   20  my_fisrt_shell_script.shy
+   21  ls
+   22  cd ABC
+   23  cd`
+history
+cd`
+   24  history
+   25  history > history_20230912.txt
