@@ -1,0 +1,60 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  sudo
+    4  pwd
+    5  pwd -l
+    6  pwd -p
+    7  rm -rf
+    8  ls -lt
+    9  git clone https://github.com/rceren/RTR105_2023
+   10  cd RTR105_2023
+   11  ls -lt
+   12  gcc
+   13  gcc -options main.c
+   14  gcc -create main
+   15  gcc first.c -o first
+   16  type -a gcc
+   17  command -V gcc
+   18  which gcc
+   19  gcc --version
+   20  make program
+   21  vi first.c
+   22  gcc first.c
+   23  gcc first.c -o first
+   24  vi first.c
+   25  gcc first.c
+   26  vi first.c
+   27  vi main.c
+   28  gcc main.c
+   29  gcc main.c -o main
+   30  vi main.c
+   31  gcc main.c
+   32  vi main.c
+   33  gcc main,c
+   34  gcc main.c
+   35  gcc first.c
+   36  vi main.c
+   37  gcc main.c -o main
+   38  ls -lt
+   39  clear
+   40  gcc -o main
+   41  gcc -o main.c
+   42  clear
+   43  vi main.c
+   44  ":recover"
+   45  :recover
+   46  vim -r main.c
+   47  .main.c.swp
+   48  gcc -v
+   49  gcc --help
+   50  man gcc
+   51  gcc hello.c
+   52  vi hello.c
+   53  gcc
+   54  gcc hello.c
+   55  gcc -l
+   56  gcc -r
+   57  clear
+   58  vi hello.c
+   59  history
+   60  history > history20230920.txt
