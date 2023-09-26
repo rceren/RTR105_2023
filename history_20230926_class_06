@@ -1,0 +1,66 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  whoami
+    4  pwd
+    5  ls -lt
+    6  clear
+    7  pwd
+    8  ls -lt
+    9  git clone https://github.com/rceren/RTR105_2023
+   10  ls -lt
+   11  cd RTR105_2023
+   12  pwd
+   13  ls -lt
+   14  mkdir Class_06
+   15  ls -lt
+   16  cd Class_06
+   17  pwd
+   18  nano first.c
+   19  ls -lta
+   20  gcc first.c 
+   21  ls -lt
+   22  ls -lta
+   23  ./a.out
+   24  echo $?
+   25  nano first.c 
+   26  ls -lt
+   27  cat first.c
+   28  gcc first.c
+   29  ls -lt
+   30  ./a.out
+   31  echo $?
+   32  nano first.c 
+   33  ls -lt
+   34  gcc first.c -o first.out
+   35  ls -lt
+   36  ./first.out
+   37  echo $?
+   38  ./a.out
+   39  echo $?
+   40  nano first.c
+   41  gcc first.c -o first_w_comments.out
+   42  ls -lt
+   43  ./first_w_comments.out 
+   44  gcc first_w_comments.out 
+   45  gcc first.c -o first_w_comments.out
+   46  gcc first.c
+   47  gcc first.c -Wall -save-temps -o first.out
+   48  lt -lt
+   49  ls -lt
+   50  cat first.c
+   51  cat first.i
+   52  cat first.s
+   53  cat first.o
+   54  gcc -E first.c > first_preprocessor
+   55  ls -lt
+   56  cat first_preprocessor
+   57  gcc -S first.i
+   58  ls -lt
+   59  gcc first.o -o first.out
+   60  ls -lt
+   61  cd ..
+   62  ls -lta
+   63  nano .gitignore
+   64  ls -lta
+   65  history
+   66  history > history_20230926_class_06
