@@ -1,0 +1,29 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git upload https://github.com/rceren/RTR105_2023
+    4  clear
+    5  git clone https://github.com/rceren/RTR105_2023
+    6  cd RTR105_2023/
+    7  mkdir Class_08
+    8  cd Class_08
+    9  ls -lt
+   10  nano variables.c
+   11  ls -lt
+   12  gcc variables.c 
+   13  nano variables.c 
+   14  gcc variables.c 
+   15  ls -lt
+   16  ./a.out
+   17  nano variables.c 
+   18  gcc variables.c 
+   19  ./a.out
+   20  nano variables.c 
+   21  gcc variables.c 
+   22  ./a.out
+   23  nano v
+   24  nano variables.c 
+   25  gcc variables.c 
+   26  nano variables.c 
+   27  gcc variables.c 
+   28  history
+   29  history > history20231004.txt
