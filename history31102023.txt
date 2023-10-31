@@ -1,0 +1,53 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/rceren/RTR105_2023
+    4  cd RTR105_2023/
+    5  mkdir Class_13
+    6  cd Class_13/
+    7  nano ex1.c
+    8  gcc ex1.c 
+    9  ./a.out
+   10  ls -lt
+   11  cat myfile.txt
+   12  hexdump -c newfile.txt
+   13  hexdump -C newfile.txt
+   14  nano ex2.c
+   15  gcc ex2.c
+   16  ./a.out
+   17  ls -lt
+   18  cat myfile.txt
+   19  nano ex3.c
+   20  gcc ex3.c
+   21  ./a.out
+   22  ls -lt
+   23  cat myfile.txt
+   24  nano ex4.c
+   25  gcc ex4.c
+   26  ./a.out
+   27  ls -lt
+   28  cat myfile.txt
+   29  nano ex5.c
+   30  gcc ex5.c 
+   31  ./a.out
+   32  ls -lt
+   33  cat myfile.bin
+   34  nanao ex6.c
+   35  nano ex6.c
+   36  gcc ex6.c
+   37  ./a.out
+   38  ls -lt
+   39  cat ex6.c
+   40  cat a.out
+   41  clear
+   42  gcc ex3.c
+   43  nano ex3.c 
+   44  gcc ex3.c 
+   45  nano ex3.c 
+   46  ls -lt
+   47  gcc ex6.c
+   48  ./a.out
+   49  hexdump myfile.bin
+   50  hexdump myfile.txt
+   51  history
+   52  history > history 31102023.txt
+   53  history > history31102023.txt
